@@ -1,0 +1,6 @@
+[2026-01-22 10:15:32] Application started
+[2026-01-22 10:15:45] Connected to database
+[2026-01-22 10:16:20] Processing batch 1 of 100
+[2026-01-22 10:16:45] Processing batch 2 of 100
+[2026-01-22 10:17:10] All batches completed successfully
+[2026-01-22 10:17:15] Application shutdown complete
